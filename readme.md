@@ -15,3 +15,5 @@ You can find more details about each demo:
 - [Demo 1](Demo01/readme.md)
 - [Demo 2](Demo02/readme.md)
 - [Demo 3](Demo02/readme.md)
+
+You can found the **slides** for the session [here](/Slides/DockerAzureDevOps-TechCommDay-JoseOrdonez.pdf).

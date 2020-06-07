@@ -14,4 +14,5 @@ The Build Pipeline (CI) will perform:
 The Release Pipeline (CD) Will perform: 
 - The deployment of the Docker Container to Azure App Service.
 
-You can find all the steps and processes to build the pipelines at this video:
+You can find all the steps and processes to build the pipelines in the session's video:
+https://www.youtube.com/watch?v=sLQSxPIvhbw
