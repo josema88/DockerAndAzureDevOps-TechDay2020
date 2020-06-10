@@ -1,6 +1,8 @@
 # Demos for Tech Community Day 2020
 
-This repo contains the 3 demos for the event [Tech Community Day 2020](https://techcommunityday.com/).
+This repo contains the 3 demos of my session for the event: [Tech Community Day 2020](https://techcommunityday.com/).
+
+![](/images/Workshop-JoseOrdonez.jpg)
 
 The demos are about:
 - Docker
